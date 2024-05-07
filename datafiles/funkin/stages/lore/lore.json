@@ -1,0 +1,42 @@
+{
+	"zoom": 0.8,
+	"is_pixel_stage": false,
+	"char_offsets": {
+		"boyfriend": [1525, 644],
+		"girlfriend": [1104, 681],
+		"opponent": [681, 483]
+	},
+	"hide_girlfriend": false,
+	"sprites": [
+		{
+			"img": "wall",
+			"x": 0,
+			"y": 0,
+			"parallax": {
+				"x": 1,
+				"y": 1
+			},
+			"in_front": false
+		},
+		{
+			"img": "floor",
+			"x": 0,
+			"y": 1000,
+			"parallax": {
+				"x": 1,
+				"y": 1
+			},
+			"in_front": false
+		},
+		{
+			"img": "curtain",
+			"x": 0,
+			"y": 0,
+			"parallax": {
+				"x": 1.2,
+				"y": 1.2
+			},
+			"in_front": true
+		}
+	]
+}
