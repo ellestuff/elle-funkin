@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Strumlines",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Strumlines",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
